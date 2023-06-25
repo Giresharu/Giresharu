@@ -2,7 +2,7 @@
 ===
 
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=giresharu&show_icons=true&theme=onedark&hide_border=true&bg_color=DEG,302c34,282c34" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=giresharu&show_icons=true&theme=onedark&hide_border=true" />
 </a>
 
 * 你可以叫我 “GSR” ，也可以叫我常年以来的中文网名“阴魂” 
