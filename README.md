@@ -24,7 +24,7 @@
 * ✒️ I'm not a professional programmer. When working full-time in the game industry, I was only a game designer;
 * 👨‍🏫 Currently, my main job is a teacher in an extracurricular class for primary and secondary school students <i>(not in the computer science field)</i>;
 * 🎮 A Nintendo fan with over 20 years of experience;
-* ⚒️ I believe in Marxism-Leninism-Maoism and I am currently studying the theories of Marxist philosophy, Marxist political economy, and scientific socialism, including the contributions of Mao Zedong, in my spare time;
+* ⚒️ I believe in Marxism-Leninism-Maoism and I am currently studying the theories of Marxist philosophy, Marxist political economy, and scientific socialism in my spare time;
 * 😥 Sadly, I can only make a small contribution in my own industry with my limited abilities;
 * 💾 I am currently developing a 2D indie game all by myself <s><i>(progress: Created "MY Project(1)")</i></s>；
 * 🧰 I will share some Unity tools that I create during the development process on GitHub;
